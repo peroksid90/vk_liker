@@ -20,7 +20,7 @@ mongo_db = mongo_client[DB_NAME]
 
 CITY_CODE = 72
 CHROME_PROFILE = "/Users/user/Library/Application Support/Google/Chrome/Profile 1"
-CHROME_DRIVER = "/Users/nikolaykinash/Downloads/chromedriver_2_2"
+CHROME_DRIVER = "/Users/user/Downloads/chromedriver_2_2"
 API_TOKEN ="your token"
 
 while True:
